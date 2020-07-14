@@ -12,5 +12,5 @@ $ cd read-file-example
 
 
 ```sh
-$ npm start
+$ npm start (PATH)
 ```
